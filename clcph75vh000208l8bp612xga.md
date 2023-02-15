@@ -190,5 +190,3 @@ http://localhost:3000
 ```
 
 Thanks for reading.
-
-<iframe src="https://github.com/sponsors/cutesquirrel519/card" height="225" width="600" style="border:0"></iframe>
