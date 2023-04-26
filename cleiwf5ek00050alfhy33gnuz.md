@@ -1,4 +1,11 @@
-# How to optimize Next.js app bundle and improve its performance
+---
+title: "How to optimize Next.js app bundle and improve its performance"
+datePublished: Fri Feb 24 2023 19:00:44 GMT+0000 (Coordinated Universal Time)
+cuid: cleiwf5ek00050alfhy33gnuz
+slug: how-to-optimize-nextjs-app-bundle-and-improve-its-performance
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677265206245/3ee190fd-9609-40d1-a852-3cd6ffb50e99.jpeg
+
+---
 
 In this article, we will learn how to optimize the Next.js app ([link to the app](https://www.moneycontrol.com/stocksmarketsindia/heat-map-advance-decline-ratio-nse-bse)) by reducing the bundle size by 43% and increase the score to 73 from 36 in Google’s [PageSpeed Insights](https://pagespeed.web.dev/).
 
