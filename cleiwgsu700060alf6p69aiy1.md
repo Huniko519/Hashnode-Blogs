@@ -1,4 +1,11 @@
-# Next.JS vs React.JS
+---
+title: "Next.JS vs React.JS"
+datePublished: Fri Feb 24 2023 19:02:01 GMT+0000 (Coordinated Universal Time)
+cuid: cleiwgsu700060alf6p69aiy1
+slug: nextjs-vs-reactjs
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677265305193/3dfe5ad3-c6b4-4aac-8809-86432623555a.webp
+
+---
 
 Javascript is the most popular web development technology, and every software project team uses it to craft best-in-class and platform-independent applications.
 
