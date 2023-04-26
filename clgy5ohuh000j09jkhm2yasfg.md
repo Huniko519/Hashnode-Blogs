@@ -3,7 +3,7 @@ title: "Vue vs. React — Which One To Choose in 2023?"
 datePublished: Wed Apr 26 2023 20:35:54 GMT+0000 (Coordinated Universal Time)
 cuid: clgy5ohuh000j09jkhm2yasfg
 slug: vue-vs-react-which-one-to-choose-in-2023
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682541168541/91313c75-fabc-422a-9f0e-f5698324b080.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682553076078/c3335f9f-45f4-4602-9b36-a075a98dbda8.webp
 
 ---
 
