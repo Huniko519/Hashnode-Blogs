@@ -1,4 +1,11 @@
-# How to Learn React in 2023
+---
+title: "How to Learn React in 2023"
+datePublished: Mon Jan 23 2023 12:25:28 GMT+0000 (Coordinated Universal Time)
+cuid: cld8s7l3g00030aju3aijbnwd
+slug: how-to-learn-react-in-2023
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674476673108/90b6f00e-cb9a-4a67-9694-fb8e448d0672.png
+
+---
 
 As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.
 
