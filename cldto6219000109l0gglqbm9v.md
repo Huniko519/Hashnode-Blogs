@@ -1,4 +1,11 @@
-# How to internationalization  i18n with React
+---
+title: "How to internationalization  i18n with React"
+datePublished: Tue Feb 07 2023 03:15:28 GMT+0000 (Coordinated Universal Time)
+cuid: cldto6219000109l0gglqbm9v
+slug: how-to-internationalization-i18n-with-react
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675739687976/1b158250-00fa-4792-ac8e-acb014bceed5.jpeg
+
+---
 
 If you are finding a way to build a website that uses multiple languages. This place is for you.
 
