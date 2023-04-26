@@ -1,4 +1,11 @@
-# 13 Libraries You Should Know as a React Developer
+---
+title: "13 Libraries You Should Know as a React Developer"
+datePublished: Wed Jan 25 2023 08:36:50 GMT+0000 (Coordinated Universal Time)
+cuid: cldbex92o000q0amg7d67dac3
+slug: 13-libraries-you-should-know-as-a-react-developer
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674635780763/cf1fee15-e7cb-494d-870e-4db273b3681b.png
+
+---
 
 From React Query to Redux... here are the 13 great React libraries which you should know about as a React developer.
 
