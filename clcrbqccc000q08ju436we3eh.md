@@ -1,4 +1,11 @@
-# How to install ScandiPWA
+---
+title: "How to install ScandiPWA"
+datePublished: Wed Jan 11 2023 07:12:05 GMT+0000 (Coordinated Universal Time)
+cuid: clcrbqccc000q08ju436we3eh
+slug: how-to-install-scandipwa
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673421111182/7dd8eb61-ba62-4a5d-b566-00eab893a555.jpeg
+
+---
 
 Given the rise of PWA for Magento 2 and following our last [how-to guide](https://www.nexcess.net/_questions/586966), in this article we will go over the installation process of [ScandiPWA](https://scandipwa.com/), a different, react based, PWA implementation for Magento 2.
 
