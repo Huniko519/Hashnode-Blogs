@@ -1,4 +1,11 @@
-# Creating a toast notification system for you react web app
+---
+title: "Creating a toast notification system for you react web app"
+datePublished: Fri Jan 20 2023 08:35:49 GMT+0000 (Coordinated Universal Time)
+cuid: cld49oovh000q08ku1ovp954i
+slug: creating-a-toast-notification-system-for-you-react-web-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674203680613/e964774a-64af-4ffe-99a6-d2a3cdcc3404.webp
+
+---
 
 > Toast notifications are used to communicate low severity level information to users in an unobtrusive way.
 
