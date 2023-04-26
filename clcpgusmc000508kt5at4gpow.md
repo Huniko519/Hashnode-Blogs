@@ -1,4 +1,11 @@
-# How To Use Axios with React
+---
+title: "How To Use Axios with React"
+datePublished: Mon Jan 09 2023 23:59:59 GMT+0000 (Coordinated Universal Time)
+cuid: clcpgusmc000508kt5at4gpow
+slug: how-to-use-axios-with-react
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673309529532/86168cd4-368e-46fa-b021-8ac7a2b8f2a8.jpeg
+
+---
 
 ### Introduction
 
