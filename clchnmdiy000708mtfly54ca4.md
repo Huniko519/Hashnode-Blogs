@@ -1,4 +1,11 @@
-# Unit testing Next.js API routes
+---
+title: "Unit testing Next.js API routes"
+datePublished: Wed Jan 04 2023 12:47:14 GMT+0000 (Coordinated Universal Time)
+cuid: clchnmdiy000708mtfly54ca4
+slug: unit-testing-nextjs-api-routes
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673341579030/02bef08d-fbae-4ce4-bd0e-762cb26804ab.png
+
+---
 
 Unit testing [Next.js API routes](https://nextjs.org/docs/api-routes/introduction) is possible with [jest](https://jestjs.io/) and straightforward once you see an example.
 
